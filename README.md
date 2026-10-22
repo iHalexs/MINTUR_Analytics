@@ -1,6 +1,6 @@
 # 📊 Modernización Analítica y Modelo Predictivo del Flujo Turístico en Ecuador (2021–2025)
 
-Pipeline automatizado end-to-end en **Python** para la ingesta, procesamiento, visualización interactiva y predicción del flujo migratorio de extranjeros hacia Ecuador, utilizando datos oficiales del **INEC** y el **Ministerio de Turismo (MINTUR)**[cite: 6].
+Pipeline automatizado end-to-end en **Python** para la ingesta, procesamiento, visualización interactiva y predicción del flujo migratorio de extranjeros hacia Ecuador, utilizando datos oficiales del **INEC** y el **Ministerio de Turismo (MINTUR)**
 
 ---
 
