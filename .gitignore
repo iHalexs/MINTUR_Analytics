@@ -216,5 +216,21 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+Fragmento de código
+
+# ==========================================
+# REGLAS ESPECÍFICAS DEL PROYECTO MINTUR
+# ==========================================
+
+# Ignorar carpetas y datos pesados (evita subir gigas de archivos)
+Datos_abiertos/
+*.parquet
+
+# Excepciones: Permitir guardar tus reportes finales generados
+!salida_resultados/
+!salida_resultados/*
+!graficos/
+!graficos/*
+
 # Streamlit
 .streamlit/secrets.toml
